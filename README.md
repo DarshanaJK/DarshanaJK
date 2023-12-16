@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://darshanajk.io)
-<h1 align="center">Hi 👋, I'm DARSHANA JAYAWARDANA</h1>
+<h1 align="center">Hi 👋, I'm Darshana Jayawardana</h1>
 <h3 align="center">A passionate Software Engineering</h3>
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<img width="400" src="https://dribbble.com/shots/3848914-Programmer-Thomas">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshanajk&label=Profile%20views&color=0e75b6&style=flat" alt="darshanajk" /> </p>
 
