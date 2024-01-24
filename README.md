@@ -1,21 +1,27 @@
  
-<h1 align="center">Hi 👋, I'm Darshana Jayawardana</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img>, I'm Darshana Jayawardana</h1>
 <h3 align="center">A passionate Software Engineering</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=darshanajk&label=Profile%20views&color=0e75b6&style=flat" alt="darshanajk" /> </p>
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30"> </p>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
+<h2 align="center"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me</h2>
 
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
 
 - 🌱 I’m currently learning **Springboot, Angular**
-- 📚 Learning everything about Frontend and Backend technologies 😅 
-- 🎓 Studies at [University of Moratuwa](https://uom.lk/)
+  
+- 📚 Learning everything about Frontend and Backend technologies 😅
+  
+- 🎓 Studies at **University of Moratuwa**
+
+- :earth_asia: I'm living now in **Matara, Southern, Sri Lanka**
+
+- 💬  Ask me about anything, I am happy to help.
+  
 - 📫 How to reach me **jkdarshana1998@gmail.com**
  
 </td>
@@ -26,16 +32,29 @@
 </table>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> GitHub Stats  
+  
+<h2 align="center"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> GitHub Stats</h2>
 
-<br>
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  [![darshanajk GitHub stats](https://github-readme-stats.vercel.app/api?username=darshanajk&theme=algolia)](https://github.com/darshanajk/github-readme-stats)
+  <br></br>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=darshanajk&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+</td>
+<td width="50%" align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=darshanajk&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![darshanajk GitHub stats](https://github-readme-stats.vercel.app/api?username=darshanajk&theme=algolia)](https://github.com/darshanajk/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darshanajk&theme=algolia)](https://github.com/darshanajk/github-readme-stats) [![darshanajk wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WinterWolf97&theme=algolia)](https://github.com/WinterWolf97/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darshanajk&theme=algolia)](https://github.com/darshanajk/github-readme-stats)
+  
+  </td>
+</tr>
+</table>
 
-<br>
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Skills </h2>
+<h2 align="center"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Skills </h2>
 
 
 - <h4> Languages </h4>
@@ -96,13 +115,12 @@
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## GitHub Thropies 🏆 
+<h2 align="center">  🏆 GitHub Thropies </h2>
 
-<br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=darshanajk)](https://github.com/darshanajk/github-profile-trophy)
 
-<br>
+
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
