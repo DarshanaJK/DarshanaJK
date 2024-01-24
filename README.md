@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img>, I'm Darshana Jayawardana</h1>
 <h3 align="center">A passionate Software Engineering</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=darshanajk&label=Profile%20views&color=0e75b6&style=flat" alt="darshanajk" /> </p>
+
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30"> </p>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -44,7 +44,8 @@
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=darshanajk&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </td>
 <td width="50%" align="center">
-
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=darshanajk&label=Profile%20views&color=0e75b6&style=flat" alt="darshanajk" /> </p>
+ 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darshanajk&theme=algolia)](https://github.com/darshanajk/github-readme-stats)
   
   </td>
