@@ -1,6 +1,6 @@
  
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img>, I'm Darshana Jayawardana</h1>
-<h3 align="center">A passionate Software Engineering</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30"> </p>
